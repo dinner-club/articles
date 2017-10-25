@@ -1,5 +1,8 @@
 # Staff's Choice
+
 A list of additional readings, tutorials, and other resources curated by App Academy's staff
+
+Would you like to [contribute](./CONTRIBUTING.md)?
 
 ## Topics
 
