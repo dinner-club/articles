@@ -12,6 +12,8 @@ Would you like to [contribute](./CONTRIBUTING.md)?
 
 [Frontend](./frontend.md)
 
+[Testing](./testing.md)
+
 [The Internet](./the-internet.md)
 
 [Interview Prep](./interview-prep.md)
