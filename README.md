@@ -31,7 +31,7 @@ A list of additional readings, tutorials, and other resources curated by App Aca
 + [Google: 53% of mobile users abandon sites that take longer than 3 seconds to load](https://www.soasta.com/blog/google-mobile-web-performance-study/)
 
 ### Security
-+ [Moving towards a more secure web](https://security.googleblog.com/2016/09/moving-towards-more-secure-web.html): Google adds address bar indicator to notify users of HTTP connections vs HTTPS
++ [Moving towards a more secure web](https://security.googleblog.com/2016/09/moving-towards-more-secure-web.html): Google adds address bar indicator to notify users of HTTP connections that collect passwords or credit cards as non-secure, in a long-term plan to mark all HTTP sites as non-secure.
 + [Chrome, Firefox, and Opera users beware: This isn’t the apple.com you want](https://arstechnica.com/information-technology/2017/04/chrome-firefox-and-opera-users-beware-this-isnt-the-apple-com-you-want/): Unicode sleight of hand makes it hard for even savvy users to detect impostor sites
 + [JSON Web Tokens](https://jwt.io/introduction/)
 
