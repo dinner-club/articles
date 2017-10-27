@@ -6,26 +6,28 @@ Would you like to [contribute](./CONTRIBUTING.md)?
 
 ## Topics
 
-[Languages](./languages.md)
+[Coding Practices](./sections/coding-practices.md)
 
-[Backend](./backend.md)
+[Languages](./sections/languages.md)
 
-[Frontend](./frontend.md)
+[Backend](./sections/backend.md)
 
-[Testing](./testing.md)
+[Frontend](./sections/frontend.md)
 
-[The Internet](./the-internet.md)
+[Testing](./sections/testing.md)
 
-[Interview Prep](./interview-prep.md)
+[The Internet](./sections/the-internet.md)
 
-[Design](./design.md)
+[Interview Prep](./sections/interview-prep.md)
 
-[Data Analysis](./data-analysis.md)
+[Design](./sections/design.md)
 
-[Security and Hacking](./security-and-hacking.md)
+[Data Analysis](./sections/data-analysis.md)
 
-[Coding Current Events and History](./coding-history.md)
+[Security and Hacking](./sections/security-and-hacking.md)
 
-[Research](./research.md)
+[Coding Current Events and History](./sections/coding-history.md)
+
+[Research](./sections/research.md)
 
 
