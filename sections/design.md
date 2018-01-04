@@ -6,4 +6,6 @@
 ## UX
 + [Google: 53% of mobile users abandon sites that take longer than 3 seconds to load](https://www.soasta.com/blog/google-mobile-web-performance-study/)
 
-## Style
+## Responsive Design
+
++ [Responsive Web Design](http://alistapart.com/article/responsive-web-design)

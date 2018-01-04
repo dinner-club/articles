@@ -2,6 +2,7 @@
 
 ## Ruby
 + [Visualizing Garbage Collection in Ruby and Python](http://patshaughnessy.net/2013/10/24/visualizing-garbage-collection-in-ruby-and-python)
++ [The Object Model in Ruby](https://launchschool.com/books/oo_ruby/read/the_object_model): Why Object Oriented Programming?
 
 ## Javascript
 + [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
