@@ -11,3 +11,6 @@
 + [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf)
 + [Understanding JavaScript types and reliable type checking](https://toddmotto.com/understanding-javascript-types-and-reliable-type-checking/)
 
+## Git
+
++ [Search A Git Repo Like a Ninja](http://travisjeffery.com/b/2012/02/search-a-git-repo-like-a-ninja/)
