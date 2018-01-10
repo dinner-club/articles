@@ -9,4 +9,5 @@
 + [WTF is JS](https://github.com/denysdovhan/wtfjs#call-call-call): A hilarious collection of JS quirks
 + [Tail Call Optimization](http://2ality.com/2015/06/tail-call-optimization.html): A way to reduce stack frames in strict mode
 + [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf)
++ [Understanding JavaScript types and reliable type checking](https://toddmotto.com/understanding-javascript-types-and-reliable-type-checking/)
 
