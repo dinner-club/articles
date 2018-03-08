@@ -5,6 +5,7 @@
 + [The Object Model in Ruby](https://launchschool.com/books/oo_ruby/read/the_object_model): Why Object Oriented Programming?
 + [Why Ruby Class Methods Resist Refactoring](https://codeclimate.com/blog/why-ruby-class-methods-resist-refactoring/)
 + [Visualizing Garbage Collection in Ruby and Python](http://patshaughnessy.net/2013/10/24/visualizing-garbage-collection-in-ruby-and-python)
++ [Metaprogramming All The Way Down](http://danieljamescolson.com/blog/meta-factory)
 
 ## Javascript
 
