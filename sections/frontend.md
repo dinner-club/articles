@@ -1,5 +1,7 @@
 # Frontend
 
++ [Front-end Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+
 ## HTML
 
 + [Useful HTML5 Form Elements you must know about](https://medium.com/@nerimbarakat/useful-html5-form-elements-you-must-know-about-9680fb05182e)
@@ -11,6 +13,7 @@
 + [React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca) - Dan Abramov
 
 ### Code Demos
+
 + [Close popover on click outside of React component](https://codepen.io/graubnla/pen/EgdgZm)
 
 ## Flux
@@ -20,4 +23,3 @@
 ### Redux
 
 + [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
-

@@ -6,11 +6,14 @@
 + [Why Ruby Class Methods Resist Refactoring](https://codeclimate.com/blog/why-ruby-class-methods-resist-refactoring/)
 + [Visualizing Garbage Collection in Ruby and Python](http://patshaughnessy.net/2013/10/24/visualizing-garbage-collection-in-ruby-and-python)
 + [Metaprogramming All The Way Down](http://danieljamescolson.com/blog/meta-factory)
++ [Using `yield_self` for composable ActiveRecord relations](https://robots.thoughtbot.com/using-yieldself-for-composable-activerecord-relations)
 
 ## Javascript
 
 + [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 + [WTF is JS](https://github.com/denysdovhan/wtfjs#call-call-call): A hilarious collection of JS quirks
++ [10 Tips for Javascript Debugging Like a PRO with Console](https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6)
++ [The JavaScript Learning Landscape in 2018](https://css-tricks.com/javascript-learning-landscape-2018/)
 
 **Constructors vs factory functions**
 
