@@ -12,6 +12,7 @@
 + [Understanding React Middleware](https://medium.com/@meagle/understanding-87566abcfb7a)
 + [React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca) - Dan Abramov
 + [A collection of awesome things regarding React ecosystem](https://github.com/enaqx/awesome-react)
++ [How to Benchmark React Components: The Quick and Dirty Guide](https://engineering.musefind.com/how-to-benchmark-react-components-the-quick-and-dirty-guide-f595baf1014c?gi=a5dbb84ae1f3)
 
 ### Code Demos
 
