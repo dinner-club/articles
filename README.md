@@ -1,6 +1,6 @@
 # Staff's Choice
 
-A list of additional readings, tutorials, and other resources curated by App Academy's staff
+A list of additional readings, tutorials, and other resources.
 
 Would you like to [contribute](./CONTRIBUTING.md)?
 
@@ -8,9 +8,9 @@ Would you like to [contribute](./CONTRIBUTING.md)?
 
 [Coding Practices](./sections/coding-practices.md)
 
-[Languages](./sections/languages.md)
+[Languages](./sections/languages)
 
-[Backend](./sections/backend.md)
+[Backend](./sections/backend)
 
 [Frontend](./sections/frontend.md)
 
