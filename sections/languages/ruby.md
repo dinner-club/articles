@@ -4,19 +4,28 @@
 
 - [Metaprogramming All The Way Down](http://danieljamescolson.com/blog/meta-factory)
 
-## Subprocesses, Threading, Forking
+## Subprocesses, Forking, and IPC
 
-- [Forking and IPC in Ruby (series)](https://www.sitepoint.com/forking-ipc-ruby-part/)
+- [Introduction to IPC in Ruby](https://www.jstorimer.com/blogs/workingwithcode/7766091-introduction-to-ipc-in-ruby)
+- [Forking and IPC in Ruby (two part series)](https://www.sitepoint.com/forking-ipc-ruby-part/)
 - [Running a child process in Ruby (properly)](https://medium.com/zendesk-engineering/running-a-child-process-in-ruby-properly-febd0a2b6ec8)
 - [Stripe's Subprocess library](https://github.com/stripe/subprocess)
 
-## Handling STDIN, STDOUT
+## Threading
+
+## Handling STDIN, STDOUT, and Pseudoterminals
 
 - [Capturing stdout & stderr from shell commands via Ruby](http://blog.honeybadger.io/capturing-stdout-stderr-from-shell-commands-via-ruby/)
+- [Pseudoterminals (wiki)](https://en.wikipedia.org/wiki/Pseudoterminal)
+- [PTY ruby doc](https://ruby-doc.org/stdlib-2.2.1/libdoc/pty/rdoc/PTY.html)
+- [Continuously read from STDOUT of external process in Ruby](https://stackoverflow.com/a/1162850/10267274)
+- [Open3 standard lib gem](https://docs.ruby-lang.org/en/2.0.0/Open3.html)
+- [IO standard lib gem](https://ruby-doc.org/core-2.3.0/IO.html)
 
 ## Scripting
 
 - [Writing Ruby Scripts That Respect Pipelines](https://www.jstorimer.com/blogs/workingwithcode/7766125-writing-ruby-scripts-that-respect-pipelines)
+- [Ruby's `ARGF`](https://robots.thoughtbot.com/rubys-argf)
 
 ## Paradigms & Models
 
