@@ -11,6 +11,7 @@
 
 ## ActiveJobs
 
+- [Ruby on Rails - Railscasts PRO #171 Delayed Job (great intro video)](https://www.youtube.com/watch?v=AoGPaWEasxs)
 - [How to Safely Deploy your Rails Jobs](https://medium.com/doctolib-engineering/how-to-safely-deploy-your-rails-jobs-dc93e37da1f9)
 
 ## ActionMailer
