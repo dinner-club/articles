@@ -9,3 +9,8 @@ implementation of the Flux architecture.
 ## Middleware
 
 - [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a)
+
+## Side Effects
+
+- [Redux-Saga V.S. Redux-Observable](https://hackmd.io/s/H1xLHUQ8e#side-by-side-comparison)
+- [Netflix JavaScript Talks - RxJS + Redux + React (video)](https://www.youtube.com/watch?v=AslncyG8whg)
