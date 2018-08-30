@@ -1,5 +1,6 @@
 # Javascript
 
+- [Javascript 30 - by Wes Bos](https://javascript30.com/)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [WTF is JS](https://github.com/denysdovhan/wtfjs#call-call-call): A hilarious collection of JS quirks
 - [10 Tips for Javascript Debugging Like a PRO with Console](https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6)
@@ -16,3 +17,7 @@
 - [Tail Call Optimization](http://2ality.com/2015/06/tail-call-optimization.html): A way to reduce stack frames in strict mode
 - [I-want-to-optimize-my-JS-application-on-V8 checklist](http://mrale.ph/blog/2011/12/18/v8-optimization-checklist.html)
 - [Object pools in high performance JS](https://stackoverflow.com/a/23180342/6114747)
+
+## Promises
+
+- [Write your own Node.js Promise library from scratch](http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html)

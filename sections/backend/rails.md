@@ -17,3 +17,9 @@
 ## ActionMailer
 
 - [Action Mailer and Active Job sitting in a tree... (tutorial)](https://robots.thoughtbot.com/action-mailer-and-active-job-sitting-in-a-tree)
+
+## ActionCable
+
+- [Action Cable - DHH](https://medium.com/@dhh/rails-5-action-cable-demo-8bba4ccfc55e)
+- [Using Action Cable with React](https://medium.com/@dakota.lillie/using-action-cable-with-react-c37df065f296)
+- [Build Chat with React JS and Rails Action Cable](http://jameshuynh.com/rails/react%20js/chat/2017/07/30/build-chat-using-react-js-and-rails-action-cable/)
