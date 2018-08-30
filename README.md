@@ -1,6 +1,6 @@
-# Staff's Choice
+# Coding Articles
 
-A list of additional readings, tutorials, and other resources.
+A collection of readings, tutorials, and other resources.
 
 Would you like to [contribute](./CONTRIBUTING.md)?
 
