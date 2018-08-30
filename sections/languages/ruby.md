@@ -8,6 +8,10 @@
 
 - [Metaprogramming All The Way Down](http://danieljamescolson.com/blog/meta-factory)
 
+## Testing
+
+- [What happens with RSpec runs](http://interblah.net/how-rspec-works)
+
 ## Subprocesses, Forking, and IPC
 
 - [Introduction to IPC in Ruby](https://www.jstorimer.com/blogs/workingwithcode/7766091-introduction-to-ipc-in-ruby)
