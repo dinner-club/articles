@@ -4,6 +4,11 @@
 
 - [Ruby - Parameters by reference or by value?](https://stackoverflow.com/questions/22827566/ruby-parameters-by-reference-or-by-value/22827949#22827949)
 
+## Gem Lists
+
+- [The Ruby Toolbox](https://www.ruby-toolbox.com/)
+- [Awesome Ruby](https://ruby.libhunt.com/)
+
 ## Metaprogramming
 
 - [Metaprogramming All The Way Down](http://danieljamescolson.com/blog/meta-factory)
