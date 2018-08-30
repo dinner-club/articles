@@ -1,5 +1,9 @@
 # Ruby
 
+## General
+
+- [Ruby - Parameters by reference or by value?](https://stackoverflow.com/questions/22827566/ruby-parameters-by-reference-or-by-value/22827949#22827949)
+
 ## Metaprogramming
 
 - [Metaprogramming All The Way Down](http://danieljamescolson.com/blog/meta-factory)
