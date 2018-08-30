@@ -6,28 +6,10 @@ Would you like to [contribute](./CONTRIBUTING.md)?
 
 ## Topics
 
-[Coding Practices](./sections/coding-practices.md)
-
 [Languages](./sections/languages)
 
-[Backend](./sections/backend)
+[Backend](./sections/web/backend)
 
-[Frontend](./sections/frontend.md)
+[Frontend](./sections/web/frontend)
 
-[Testing](./sections/testing.md)
-
-[The Internet](./sections/the-internet.md)
-
-[Interview Prep](./sections/interview-prep.md)
-
-[Design](./sections/design.md)
-
-[Data Analysis](./sections/data-analysis.md)
-
-[Security and Hacking](./sections/security-and-hacking.md)
-
-[Coding Current Events and History](./sections/coding-history.md)
-
-[Research](./sections/research.md)
-
-
+[All other sections](./sections)
