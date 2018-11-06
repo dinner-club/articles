@@ -18,14 +18,13 @@
 
 - [What happens with RSpec runs](http://interblah.net/how-rspec-works)
 
-## Subprocesses, Forking, and IPC
+## Subprocesses, Forking, Threading, and the IPC
 
+- [Ruby Concurrency and Parallelism: A Practical Tutorial](https://www.toptal.com/ruby/ruby-concurrency-and-parallelism-a-practical-primer)
 - [Introduction to IPC in Ruby](https://www.jstorimer.com/blogs/workingwithcode/7766091-introduction-to-ipc-in-ruby)
 - [Forking and IPC in Ruby (two part series)](https://www.sitepoint.com/forking-ipc-ruby-part/)
 - [Running a child process in Ruby (properly)](https://medium.com/zendesk-engineering/running-a-child-process-in-ruby-properly-febd0a2b6ec8)
 - [Stripe's Subprocess library](https://github.com/stripe/subprocess)
-
-## Threading
 
 ## Handling STDIN, STDOUT, and Pseudoterminals
 
