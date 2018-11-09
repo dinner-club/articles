@@ -8,6 +8,10 @@
 - [What to do with a Detached Head](https://howtogit.net/recipes/getting-out-of-detached-head-state.html)
 - [Display git branch in your bash PS1](https://gist.github.com/joseluisq/1e96c54fa4e1e5647940)
 
+## Commit Messages
+
+- [Conventional Commits - A specification for adding human and machine readable meaning to commit messages](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
+
 ## Tutorials
 
 - [Git Ready!](http://www.gitready.today/)
