@@ -10,6 +10,12 @@
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/)
 - [Awesome Ruby](https://ruby.libhunt.com/)
 
+## Rake Tasks
+
+- [Using the Rake Build Language - Martin Fowler](https://martinfowler.com/articles/rake.html)
+- [Basic Rake video - Jim Weirich (the creator and maintainer of rake)](https://www.youtube.com/watch?v=AFPWDzHWjEY)
+- [Power Rake video - Jim Weirich (the creator and maintainer of rake)](https://vimeo.com/45132438)
+
 ## Metaprogramming
 
 - [Metaprogramming All The Way Down](http://danieljamescolson.com/blog/meta-factory)
