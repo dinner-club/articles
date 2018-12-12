@@ -1,5 +1,7 @@
 # Dev Ops
 
+- [Dev Ops Checklist](https://gruntwork.io/devops-checklist/)
+
 ## Docker
 
 - [Docker in a nutshell](https://medium.com/coinmonks/docker-in-a-nutshell-6b3985a58d68)
