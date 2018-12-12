@@ -31,6 +31,7 @@
 - [Forking and IPC in Ruby (two part series)](https://www.sitepoint.com/forking-ipc-ruby-part/)
 - [Running a child process in Ruby (properly)](https://medium.com/zendesk-engineering/running-a-child-process-in-ruby-properly-febd0a2b6ec8)
 - [Stripe's Subprocess library](https://github.com/stripe/subprocess)
+- [Thread Pool - A Ruby Antihero](https://rossta.net/blog/a-ruby-antihero-thread-pool.html)
 
 ## Handling STDIN, STDOUT, and Pseudoterminals
 
