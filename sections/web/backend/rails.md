@@ -30,3 +30,9 @@
 - [Action Cable (DHH)](https://medium.com/@dhh/rails-5-action-cable-demo-8bba4ccfc55e)
 - [Using Action Cable with React](https://medium.com/@dakota.lillie/using-action-cable-with-react-c37df065f296)
 - [Build Chat with React JS and Rails Action Cable](http://jameshuynh.com/rails/react%20js/chat/2017/07/30/build-chat-using-react-js-and-rails-action-cable/)
+
+## Devise and OAuth
+
+- [An Introduction to Oauth2 (high level)](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
+- [Devise Github Wiki - OmniAuth Overview](https://github.com/plataformatec/devise/wiki/OmniAuth:-Overview)
+- [End to end: Devise Omniauth + Google API + Rails](https://medium.com/@_benrudolph/end-to-end-devise-omniauth-google-api-rails-7f432b38ed75)
