@@ -37,3 +37,5 @@
 - [Devise Github Wiki - OmniAuth Overview](https://github.com/plataformatec/devise/wiki/OmniAuth:-Overview)
 - [End to end: Devise Omniauth + Google API + Rails](https://medium.com/@_benrudolph/end-to-end-devise-omniauth-google-api-rails-7f432b38ed75)
 - [github omniauth-google-oauth2](https://github.com/zquestz/omniauth-google-oauth2)
+- [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
+
