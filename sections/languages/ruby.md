@@ -24,7 +24,7 @@
 
 - [What happens with RSpec runs](http://interblah.net/how-rspec-works)
 
-## Subprocesses, Forks, Threads, and the IPC
+## Subprocesses, Forks, Threads, and the Global Interpreter Lock
 
 - [Ruby Concurrency and Parallelism: A Practical Tutorial](https://www.toptal.com/ruby/ruby-concurrency-and-parallelism-a-practical-primer)
 - [Introduction to IPC in Ruby](https://www.jstorimer.com/blogs/workingwithcode/7766091-introduction-to-ipc-in-ruby)
