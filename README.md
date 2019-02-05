@@ -12,6 +12,8 @@ Would you like to [contribute](./CONTRIBUTING.md)?
 
 [Frontend](./sections/web/frontend)
 
+[Application Design](./sections/application_design)
+
 [All other sections](./sections)
 
 ## General Development
