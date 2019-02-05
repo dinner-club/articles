@@ -12,7 +12,7 @@ Would you like to [contribute](./CONTRIBUTING.md)?
 
 [Frontend](./sections/web/frontend)
 
-[Design Design](./sections/design)
+[Design](./sections/design)
 
 [All other sections](./sections)
 
