@@ -1,5 +1,9 @@
 # Rails
 
+## App Design
+
+- [Bring clarity to your monolith with Bounded Contexts](https://blog.carbonfive.com/2016/11/01/bring-clarity-to-your-monolith-with-bounded-contexts/)
+
 ## In Depth
 
 - [Examining The Internals Of The Rails Request/Response Cycle](https://www.rubypigeon.com/posts/examining-internals-of-rails-request-response-cycle/)
