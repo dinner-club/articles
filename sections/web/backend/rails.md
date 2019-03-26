@@ -11,9 +11,10 @@
 - [Exploring the `:inverse_of` option on Rails Model Associations](https://www.viget.com/articles/exploring-the-inverse-of-option-on-rails-model-associations/)
 - [Ruby on Rails - how to create perfect enum in 5 steps](https://naturaily.com/blog/ruby-on-rails-enum)
 
-## AR Caching
+## ActiveRecord
 
 - [Caching result sets and collection in Rails 5](https://blog.bigbinary.com/2016/02/02/activerecord-relation-cache-key.html)
+- [ActiveRecord Postgres extension gem](https://github.com/georgekaraszi/ActiveRecordExtended)
 
 ## Concerns
 
