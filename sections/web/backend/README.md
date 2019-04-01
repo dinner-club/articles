@@ -1,5 +1,7 @@
 # General Backend Dev
 
+- [How we Built a Highly Performant App with Ruby on Rails and Phoenix](https://www.monterail.com/blog/ruby-on-rails-development-phoenix-elixir)
+
 ## Service Objects
 
 - [Why Aren't We Using More Service Objects Already](https://aaronlasseigne.com/2017/11/08/why-arent-we-using-more-service-objects-already/)
