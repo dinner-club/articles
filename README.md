@@ -16,6 +16,10 @@ Would you like to [contribute](./CONTRIBUTING.md)?
 
 [All other sections](./sections)
 
+## External Sources
+
+[Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+
 ## General Development
 
 - [Software Engineering at Google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
